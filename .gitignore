@@ -3,3 +3,5 @@ node_modules/**/*
 .expo/*
 npm-debug.*
 android/.idea/libraries/**
+android/maven/**
+ios/**
