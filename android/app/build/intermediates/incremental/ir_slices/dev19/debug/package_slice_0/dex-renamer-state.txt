@@ -1,4 +1,0 @@
-#Tue May 29 04:04:12 EDT 2018
-base.0=/Users/mikeumus/Documents/Mikeumus/code/Lucidity-Timer/android/app/build/intermediates/transforms/dexMerger/dev19/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

@@ -2,6 +2,7 @@
 node_modules/**/*
 .expo/*
 npm-debug.*
-android/.idea/libraries/**
-android/maven/**
-ios/**
+android/.idea/libraries/**/*
+android/maven/**/*
+android/gradle/4.4/**/*
+ios/**/*
