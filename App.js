@@ -12,23 +12,16 @@ export default class App extends React.Component {
   }
 
   componentWillMount() {
-    // Let's get access before doing anything
-    RNCalendarEvents.authorizationStatus()
-    .then(status => {
-      // if the status was previous accepted, set the authorized status to state
-      this.setState({ cal_auth: status })
-      if(status === 'undetermined') {
-        // if we made it this far, we need to ask the user for access
-        RNCalendarEvents.authorizeEventStore()
-        .then((out) => {
-          if(out == 'authorized') {
-            // set the new status to the auth state
-            this.setState({ cal_auth: out })
-          }
-        })
+    RNCalendarEvents.authorizeEventStore()
+    .then((out) => {
+      if (out === 'authorized') {
+        this.setState({ cal_auth: out })
       }
-    })
-    .catch(error => console.warn('Auth Error: ', error));
+     })
+     .catch((error) => {
+       debugger;
+       console.warn('Auth Error: ', error);
+     });
   }
 
   setTimer(){

@@ -30,10 +30,10 @@ public class MainApplication extends ExpoApplication {
     );
   }
 
-  // @Override
+  @Override
   public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
       CalendarEventsPackage.onRequestPermissionsResult(requestCode, permissions, grantResults);
-      // super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+      super.onRequestPermissionsResult(requestCode, permissions, grantResults);
   }
 
   @Override

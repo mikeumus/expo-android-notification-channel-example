@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
-  "scripts": {
-    "postinstall": "rndebugger-open"
-  },
   "dependencies": {
     "expo": "^27.0.1",
     "moment": "^2.22.1",
@@ -15,5 +12,9 @@
   },
   "devDependencies": {
     "react-native-debugger-open": "^0.3.17"
+  },
+  "scripts": {
+    "start": "exp start --lan",
+    "postinstall": "rndebugger-open"
   }
 }

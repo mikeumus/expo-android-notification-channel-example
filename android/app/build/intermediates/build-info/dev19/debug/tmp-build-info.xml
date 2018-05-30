@@ -2,13 +2,13 @@
 <instant-run
     abi="x86"
     api-level="26"
-    build-mode="FULL"
+    build-mode="COLD"
     density="xhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1527585414732"
+    timestamp="1527655809674"
     token="1009360842135176092"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
