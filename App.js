@@ -19,7 +19,7 @@ export default class App extends React.Component {
       }
      })
      .catch((error) => {
-       debugger;
+       // debugger;
        console.warn('Auth Error: ', error);
      });
   }

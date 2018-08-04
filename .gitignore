@@ -1,10 +1,4 @@
-.DS_Store
 node_modules/**/*
 .expo/*
 npm-debug.*
-android/.idea/**/*
-android/maven/**/*
-android/.gradle/4.4/**/*
-android/app/build/generated/**/*
-android/app/build/intermediates/**/*
-ios/**/*
+.DS_Store

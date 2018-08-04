@@ -11,15 +11,15 @@ import host.exp.exponent.Constants;
 @DoNotStrip
 public class AppConstants {
 
-  public static final String VERSION_NAME = "2.5.3";
-  public static String INITIAL_URL = "exp://exp.host/@mikeumus/Lucidity-Timer";
+  public static final String VERSION_NAME = "2.7.1";
+  public static String INITIAL_URL = "exp://exp.host/@mikeumus/expo-sdk29-test";
   public static final boolean IS_DETACHED = true;
-  public static final String SHELL_APP_SCHEME = "exp2cfa2a0036684353a83e14a84d9d5fe9";
+  public static final String SHELL_APP_SCHEME = "expe76749b736ef4d49969b816375ce492c";
   public static final String RELEASE_CHANNEL = "default";
   public static boolean SHOW_LOADING_VIEW_IN_SHELL_APP = false;
   public static boolean ARE_REMOTE_UPDATES_ENABLED = true;
   public static final List<Constants.EmbeddedResponse> EMBEDDED_RESPONSES;
-  public static boolean FCM_ENABLED = false;
+  public static boolean FCM_ENABLED = true;
 
   static {
     List<Constants.EmbeddedResponse> embeddedResponses = new ArrayList<>();

@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "Lucidity-Timer",
+    "name": "lucid-timer",
     "description": "This project is really great.",
-    "slug": "Lucidity-Timer",
+    "slug": "expo-sdk29-test",
     "privacy": "public",
-    "sdkVersion": "27.0.0",
+    "sdkVersion": "29.0.0",
     "platforms": [
       "ios",
       "android"
@@ -17,28 +17,28 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mdm.lucidtimer",
+      "publishBundlePath": "ios/expo-sdk29-test/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/expo-sdk29-test/Supporting/shell-app-manifest.json"
+    },
+    "android": {
+      "package": "com.mdm.lucidtimer",
+      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
+      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
+    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.mdm.lucidtimer",
-      "publishBundlePath": "ios/lucidity-timer/Supporting/shell-app.bundle",
-      "publishManifestPath": "ios/lucidity-timer/Supporting/shell-app-manifest.json"
-    },
     "isDetached": true,
     "detach": {
-      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.5.10-sdk27.0.0-7e6dd135-e649-48e2-ab7c-e76521ce6259.tar.gz",
-      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.5.3-sdk27.0.0-408c8d77-8d1f-4784-b7b4-93826250663a.tar.gz"
+      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.7.0-sdk29.0.0-de70611d-e42d-4d50-a6a5-2d8eabf6ed72.tar.gz",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.6.0-sdk29.0.0-2366e226-0c19-4600-aa66-dce75dd474fb.tar.gz"
     },
-    "scheme": "exp2cfa2a0036684353a83e14a84d9d5fe9",
-    "android": {
-      "package": "com.mdm.lucidtimer",
-      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
-      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
-    }
+    "scheme": "expe76749b736ef4d49969b816375ce492c"
   }
 }

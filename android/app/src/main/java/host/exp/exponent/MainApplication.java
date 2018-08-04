@@ -1,5 +1,6 @@
 package host.exp.exponent;
-import com.facebook.react.shell.MainReactPackage;
+
+// import com.facebook.react.shell.MainReactPackage;
 import com.facebook.react.ReactPackage;
 
 import java.util.Arrays;
@@ -8,7 +9,7 @@ import java.util.List;
 import expolib_v1.okhttp3.OkHttpClient;
 
 // Needed for `react-native link`
-// import com.facebook.react.ReactApplication;
+//import com.facebook.react.ReactApplication;
 import com.calendarevents.CalendarEventsPackage;
 
 public class MainApplication extends ExpoApplication {
@@ -21,25 +22,22 @@ public class MainApplication extends ExpoApplication {
   // Needed for `react-native link`
   public List<ReactPackage> getPackages() {
     return Arrays.<ReactPackage>asList(
-        // Add your own packages here!
-        // TODO: add native modules!
-
         // Needed for `react-native link`
-        new MainReactPackage(),
+        // new MainReactPackage(),
         new CalendarEventsPackage()
     );
-  }
-
-  @Override
-  public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
-      CalendarEventsPackage.onRequestPermissionsResult(requestCode, permissions, grantResults);
-      super.onRequestPermissionsResult(requestCode, permissions, grantResults);
   }
 
   @Override
   public String gcmSenderId() {
     return getString(R.string.gcm_defaultSenderId);
   }
+
+//   @Override
+   public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+     CalendarEventsPackage.onRequestPermissionsResult(requestCode, permissions, grantResults);
+//    super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+   }
 
   @Override
   public boolean shouldUseInternetKernel() {
