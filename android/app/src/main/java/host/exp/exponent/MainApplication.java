@@ -11,6 +11,7 @@ import expolib_v1.okhttp3.OkHttpClient;
 // Needed for `react-native link`
 //import com.facebook.react.ReactApplication;
 import com.calendarevents.CalendarEventsPackage;
+import com.ioddly.alarms.AlarmPackage;
 
 public class MainApplication extends ExpoApplication {
 
@@ -24,6 +25,7 @@ public class MainApplication extends ExpoApplication {
     return Arrays.<ReactPackage>asList(
         // Needed for `react-native link`
         // new MainReactPackage(),
+          new AlarmPackage(),
         new CalendarEventsPackage()
     );
   }

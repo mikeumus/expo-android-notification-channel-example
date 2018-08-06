@@ -96,6 +96,8 @@ apply from: 'expo.gradle'
 
 
 dependencies {
+    compile project(':react-native-calendar-events')
+    compile project(':react-native-alarms')
   implementation project(':react-native-calendar-events')
   implementation fileTree(dir: 'libs', include: ['*.jar'])
 

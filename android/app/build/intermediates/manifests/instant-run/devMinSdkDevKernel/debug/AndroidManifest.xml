@@ -19,6 +19,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
     <!-- ADD PERMISSIONS HERE -->
     <!-- BEGIN OPTIONAL PERMISSIONS -->
@@ -118,6 +119,19 @@
         android:largeHeap="true"
         android:supportsRtl="true"
         android:testOnly="true" >
+        <receiver
+            android:name="com.ioddly.alarms.AlarmRun"
+            android:enabled="true" />
+        <receiver
+            android:name="com.ioddly.alarms.BootLauncher"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
         <activity
             android:name="host.exp.exponent.LauncherActivity"
             android:exported="true"

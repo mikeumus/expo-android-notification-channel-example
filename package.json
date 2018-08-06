@@ -6,7 +6,8 @@
     "start": "exp start",
     "android": "exp start --android",
     "ios": "exp start --ios",
-    "debug": "rndebugger-open --open --expo"
+    "debug": "rndebugger-open --open --expo",
+    "flow": "flow"
   },
   "dependencies": {
     "expo": "^29.0.0",
@@ -14,9 +15,13 @@
     "moment": "^2.22.2",
     "react": "16.3.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
+    "react-native-alarms": "git+https://github.com/ioddly/react-native-alarms.git",
     "react-native-calendar-events": "^1.6.1"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.78.0",
     "react-native-debugger-open": "^0.3.17"
   }
 }
