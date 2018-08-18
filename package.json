@@ -7,7 +7,8 @@
     "android": "exp start --android",
     "ios": "exp start --ios",
     "debug": "rndebugger-open --open --expo",
-    "flow": "flow"
+    "flow": "flow",
+    "test": "node node_modules/jest/bin/jest.js --watch"
   },
   "dependencies": {
     "expo": "^29.0.0",
@@ -16,12 +17,18 @@
     "react": "16.3.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
     "react-native-alarms": "git+https://github.com/ioddly/react-native-alarms.git",
-    "react-native-calendar-events": "^1.6.1"
+    "react-native-calendar-events": "^1.6.1",
+    "react-native-circular-progress": "git+https://github.com/bgryszko/react-native-circular-progress.git"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-flow": "^6.23.0",
     "flow-bin": "^0.78.0",
-    "react-native-debugger-open": "^0.3.17"
+    "react-native-debugger-open": "^0.3.17",
+    "jest-expo": "^25.0.0",
+    "react-test-renderer": "16.0.0-beta.5"
+  },
+  "jest": {
+    "preset": "jest-expo"
   }
 }

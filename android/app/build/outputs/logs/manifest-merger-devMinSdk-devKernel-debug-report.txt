@@ -4,10 +4,11 @@ ADDED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/m
 INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
 INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
 INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
-MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:react-native-alarms] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-alarms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:2:1-87:12
 MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/leakcanary-android-no-op-1.4-beta1.aar/bf577955721e5555f9d9d73422a47aba/AndroidManifest.xml:17:1-24:12
+MERGED from [:react-native-svg] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-alarms] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-alarms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:multidex:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/1b7392dc176d54f0458d1d6e1ff3ec21/AndroidManifest.xml:16:1-19:12
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/ae2edc796eeff204816799480d773347/AndroidManifest.xml:2:1-12:12
 MERGED from [com.facebook.react:react-native:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/react-native-29.0.0.aar/bc3af34f04b516a5048e535094a057bc/AndroidManifest.xml:2:1-15:12
@@ -370,18 +371,18 @@ MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/t
 		ADDED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:34:20-67
 uses-permission#android.permission.READ_CALENDAR
 ADDED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:35:3-70
-MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-72
-MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-72
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:32:5-72
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:32:5-72
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-72
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-72
 	android:name
 		ADDED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:35:20-67
 uses-permission#android.permission.WRITE_CALENDAR
 ADDED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:36:3-71
-MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-73
-MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-73
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:33:5-73
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:33:5-73
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-73
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-73
 	android:name
 		ADDED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:36:20-68
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -962,14 +963,16 @@ uses-sdk
 INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-alarms] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-alarms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-alarms] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-alarms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:7:5-9:41
 MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/leakcanary-android-no-op-1.4-beta1.aar/bf577955721e5555f9d9d73422a47aba/AndroidManifest.xml:20:5-22:41
 MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/leakcanary-android-no-op-1.4-beta1.aar/bf577955721e5555f9d9d73422a47aba/AndroidManifest.xml:20:5-22:41
+MERGED from [:react-native-svg] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-alarms] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-alarms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-alarms] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-alarms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:multidex:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/1b7392dc176d54f0458d1d6e1ff3ec21/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:multidex:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/1b7392dc176d54f0458d1d6e1ff3ec21/AndroidManifest.xml:18:5-42
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/ae2edc796eeff204816799480d773347/AndroidManifest.xml:8:5-10:41
