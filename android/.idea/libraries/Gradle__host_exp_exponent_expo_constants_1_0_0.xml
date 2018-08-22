@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: host.exp.exponent:expo-constants-1.0.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-constants-1.0.0.aar/b8a6ccfc68ea2a2f6c91e0060e9af80a/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-constants-1.0.0.aar/b8a6ccfc68ea2a2f6c91e0060e9af80a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-constants-1.0.0.aar/3ed3bfd17826a3fb413e2b81a21166b2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-constants-1.0.0.aar/3ed3bfd17826a3fb413e2b81a21166b2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
