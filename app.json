@@ -2,7 +2,7 @@
   "expo": {
     "name": "lucid-timer",
     "description": "This project is really great.",
-    "slug": "expo-sdk29-test",
+    "slug": "lucid-timer",
     "privacy": "public",
     "sdkVersion": "29.0.0",
     "platforms": [
@@ -20,8 +20,8 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.mdm.lucidtimer",
-      "publishBundlePath": "ios/expo-sdk29-test/Supporting/shell-app.bundle",
-      "publishManifestPath": "ios/expo-sdk29-test/Supporting/shell-app-manifest.json"
+      "publishBundlePath": "ios/lucid-timer/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/lucid-timer/Supporting/shell-app-manifest.json"
     },
     "android": {
       "package": "com.mdm.lucidtimer",

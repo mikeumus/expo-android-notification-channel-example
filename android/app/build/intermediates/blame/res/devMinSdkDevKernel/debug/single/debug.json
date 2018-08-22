@@ -4,6 +4,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/color-v23/abc_tint_edittext.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
     },
@@ -14,6 +15,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/c078c680fd087892db14a8778b365029/res/drawable-hdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_stp_card_form_back.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/res/drawable/stp_card_form_back.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
@@ -24,6 +37,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/29d45a774a76780e50073d8f2cdeb949/res/drawable-hdpi-v4/exo_controls_fastforward.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -34,6 +48,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/anim_abc_slide_out_top.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/anim/abc_slide_out_top.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/5d11ea8f0d422664aaa70dfee7d5abe0/res/drawable-xhdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/cf28db3e4ae1355804b8515fd60d6498/res/drawable-xhdpi-v4/exo_edit_mode_logo.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/color_abc_hint_foreground_material_light.xml.flat",
@@ -88,6 +114,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_notification_template_part_time.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/100cf2f02fd5f8c0c37cebb6c55963df/res/layout/notification_template_part_time.xml"
     },
@@ -98,6 +125,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_abc_alert_dialog_title_material.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/layout/abc_alert_dialog_title_material.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_btn_default_pressed_holo_dark.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/res/drawable-hdpi-v4/btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/4b74bc3fffaba8239ca01b5acabf01fa/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/anim_abc_slide_in_top.xml.flat",
@@ -164,6 +203,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/color_abc_btn_colored_text_material.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/color/abc_btn_colored_text_material.xml"
     },
@@ -174,14 +214,31 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/raw_amu_extended_data.kml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c42db45c81e8f6d9d962915a62a22d9c/res/raw/amu_extended_data.kml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ec2ac6f2866afccb6ebe836900647b09/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ec2ac6f2866afccb6ebe836900647b09/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_ic_card_amex.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.4.aar/f0318595a789b86b18ca2b1f309464f0/res/drawable-xxhdpi-v4/ic_card_amex.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/mipmap-xxxhdpi-v26_dev_icon.png.flat",
         "source": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/res/mipmap-xxxhdpi-v26/dev_icon.png"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -228,6 +285,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -238,6 +296,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/raw_amu_basic_placemark.kml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/5306abebfb384a514443f0217989564e/res/raw/amu_basic_placemark.kml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/5d11ea8f0d422664aaa70dfee7d5abe0/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_com_facebook_button_like_background.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/5d11ea8f0d422664aaa70dfee7d5abe0/res/drawable/com_facebook_button_like_background.xml"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -300,6 +370,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_cc_back.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.4.aar/f0318595a789b86b18ca2b1f309464f0/res/drawable-xhdpi-v4/cc_back.png"
     },
@@ -310,6 +381,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/mipmap-mdpi-v26_ic_launcher.xml.flat",
         "source": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7ed8b86d96d5cbe265d0b1c0e78ee986/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi_ic_home_white_36dp.png.flat",
+        "source": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/res/drawable-xhdpi/ic_home_white_36dp.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
@@ -364,6 +447,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/100cf2f02fd5f8c0c37cebb6c55963df/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_messenger_button_send_white_small.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/eda7400a8648145ac91470e73360f8cb/res/layout/messenger_button_send_white_small.xml"
     },
@@ -374,12 +458,25 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/anim_abc_popup_enter.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/anim/abc_popup_enter.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/4b74bc3fffaba8239ca01b5acabf01fa/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/raw_amu_nested_multigeometry.kml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/5306abebfb384a514443f0217989564e/res/raw/amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_messenger_bubble_large_white.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/eda7400a8648145ac91470e73360f8cb/res/drawable-hdpi-v4/messenger_bubble_large_white.png"
     },
@@ -390,6 +487,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_abc_action_bar_title_item.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/layout/abc_action_bar_title_item.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/ea69cf56a1f19817f0424d6f32db5580/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/c078c680fd087892db14a8778b365029/res/drawable-xxhdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/4b74bc3fffaba8239ca01b5acabf01fa/res/color/common_google_signin_btn_tint.xml"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_exo_controls_play.png.flat",
@@ -420,6 +529,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
@@ -430,6 +540,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/xml_stub_classic.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/cff56d7a702e95139a044da913a23f5e/res/xml/stub_classic.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_oauth_webview_activity.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/res/layout/oauth_webview_activity.xml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/cf28db3e4ae1355804b8515fd60d6498/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxxhdpi_ic_home_white_36dp.png.flat",
@@ -456,6 +578,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c42db45c81e8f6d9d962915a62a22d9c/res/raw/amu_poly_style_boolean_numeric.kml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f740f6f26639a4802f635ca36cab886a/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
@@ -466,6 +589,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_loading_view.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/cff56d7a702e95139a044da913a23f5e/res/layout/loading_view.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7ed8b86d96d5cbe265d0b1c0e78ee986/res/layout-v21/notification_template_icon_group.xml"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldpi-v4_exo_controls_fastforward.png.flat",
@@ -548,6 +683,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/100cf2f02fd5f8c0c37cebb6c55963df/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
@@ -558,26 +694,52 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ec2ac6f2866afccb6ebe836900647b09/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/5306abebfb384a514443f0217989564e/res/drawable-xxhdpi-v4/amu_bubble_shadow.9.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_notification_template_big_media_narrow.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/883a29e3dd3c1c0d54c5579064ee11c2/res/layout/notification_template_big_media_narrow.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/raw_amu_basic_placemark.kml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c42db45c81e8f6d9d962915a62a22d9c/res/raw/amu_basic_placemark.kml"
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi_ic_share_white_36dp.png.flat",
         "source": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/res/drawable-xxhdpi/ic_share_white_36dp.png"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/1ca85760e014e1f58b756dced282d703/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable/abc_ratingbar_indicator_material.xml"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/color_common_google_signin_btn_tint.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f740f6f26639a4802f635ca36cab886a/res/color/common_google_signin_btn_tint.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f740f6f26639a4802f635ca36cab886a/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7ed8b86d96d5cbe265d0b1c0e78ee986/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
@@ -788,6 +950,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/cff56d7a702e95139a044da913a23f5e/res/animator/card_flip_left_in.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/color/abc_primary_text_disable_only_material_light.xml"
     },
@@ -798,6 +961,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_com_facebook_auth_dialog_background.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d172639e57ade74072ccc35a0f7ca3f1/res/drawable/com_facebook_auth_dialog_background.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_textfield_disabled_focused_holo_dark.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/res/drawable-hdpi-v4/textfield_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/5d11ea8f0d422664aaa70dfee7d5abe0/res/drawable-hdpi-v4/com_facebook_close.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldpi-v4_exo_controls_repeat_one.png.flat",
@@ -836,6 +1011,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f740f6f26639a4802f635ca36cab886a/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_exponent_button.xml.flat",
         "source": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/res/layout/exponent_button.xml"
     },
@@ -846,6 +1022,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_abc_search_view.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/xml_provider_paths.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/res/xml/provider_paths.xml"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -896,6 +1084,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_exo_controls_next.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/29d45a774a76780e50073d8f2cdeb949/res/drawable-anydpi-v21/exo_controls_next.xml"
     },
@@ -906,6 +1095,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_square.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/7c4ee9869e5b72c7ad2ad0573628cd57/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_exo_controls_rewind.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/cf28db3e4ae1355804b8515fd60d6498/res/drawable-anydpi-v21/exo_controls_rewind.xml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/cf28db3e4ae1355804b8515fd60d6498/res/drawable-hdpi-v4/exo_edit_mode_logo.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_crop_image_view.xml.flat",
@@ -940,6 +1141,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/100cf2f02fd5f8c0c37cebb6c55963df/res/drawable/notification_tile_bg.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_exo_controls_next.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/29d45a774a76780e50073d8f2cdeb949/res/drawable-xxhdpi-v4/exo_controls_next.png"
     },
@@ -950,6 +1152,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_exo_controls_fastforward.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/29d45a774a76780e50073d8f2cdeb949/res/drawable-anydpi-v21/exo_controls_fastforward.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_exo_controls_play.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/cf28db3e4ae1355804b8515fd60d6498/res/drawable-xxhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/mipmap-hdpi-v26_ic_launcher.xml.flat",
@@ -1080,6 +1294,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_exo_controls_repeat_off.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/29d45a774a76780e50073d8f2cdeb949/res/drawable-xhdpi-v4/exo_controls_repeat_off.png"
     },
@@ -1090,6 +1305,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f740f6f26639a4802f635ca36cab886a/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_messenger_button_blue_bg_round.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/c078c680fd087892db14a8778b365029/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_com_facebook_send_button_icon.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/1ca85760e014e1f58b756dced282d703/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_header_dark.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/res/drawable/header_dark.xml"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_notification_media_action.xml.flat",
@@ -1416,16 +1643,26 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_notification_template_big_media_custom.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/883a29e3dd3c1c0d54c5579064ee11c2/res/layout/notification_template_big_media_custom.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_com_facebook_button_icon.xml.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d172639e57ade74072ccc35a0f7ca3f1/res/drawable/com_facebook_button_icon.xml"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
@@ -1496,6 +1733,7 @@
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -1506,6 +1744,18 @@
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+=======
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/cf28db3e4ae1355804b8515fd60d6498/res/drawable-xxhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/layout/abc_popup_menu_item_layout.xml"
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
     },
     {
         "merged": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",

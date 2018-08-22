@@ -12,7 +12,7 @@ import host.exp.exponent.Constants;
 public class AppConstants {
 
   public static final String VERSION_NAME = "2.7.1";
-  public static String INITIAL_URL = "exp://exp.host/@mikeumus/expo-sdk29-test";
+  public static String INITIAL_URL = "exp://exp.host/@mikeumus/lucid-timer";
   public static final boolean IS_DETACHED = true;
   public static final String SHELL_APP_SCHEME = "expe76749b736ef4d49969b816375ce492c";
   public static final String RELEASE_CHANNEL = "default";

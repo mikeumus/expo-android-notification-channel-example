@@ -1,5 +1,6 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
@@ -158,6 +159,167 @@ MERGED from [android.arch.core:runtime:1.1.0] /Users/mike/.gradle/caches/transfo
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
+=======
+ADDED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
+MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:2:1-87:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/leakcanary-android-no-op-1.4-beta1.aar/bf577955721e5555f9d9d73422a47aba/AndroidManifest.xml:17:1-24:12
+MERGED from [:react-native-svg] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-alarms] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-alarms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:multidex:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/1b7392dc176d54f0458d1d6e1ff3ec21/AndroidManifest.xml:16:1-19:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/ae2edc796eeff204816799480d773347/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/react-native-29.0.0.aar/bc3af34f04b516a5048e535094a057bc/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/dd8791c375a956dea3cca6ef3c134d18/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ec2ac6f2866afccb6ebe836900647b09/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/1ca85760e014e1f58b756dced282d703/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/5d11ea8f0d422664aaa70dfee7d5abe0/AndroidManifest.xml:21:1-37:12
+MERGED from [host.exp.exponent:expo-permissions:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-1.0.0.aar/e4b632291a859d5c61a27a63143d8101/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-camera:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-1.0.0.aar/d461095f577f8df22ed7e0e12168359d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android:cameraview:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/cameraview-1.0.0.aar/645ebe0c2a733a5ff017069b47f5e1a5/AndroidManifest.xml:14:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:audience-network-sdk:4.99.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.0.aar/cf83d7c4d3f64f334b566c8b11f37f0b/AndroidManifest.xml:2:1-20:12
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/a6b393ad1693e95d044ad213696fe08d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/fa1f99e6b0cd06248b99c3243e5e2512/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/0b4dcc964e9a5d2239e31808c9a7040c/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-wallet:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.1.aar/e6ce46a3b15441bc9ebae8cc6b06525c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f8d3d8ec5d64f43ea64c05784d6d9c4/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/ea69cf56a1f19817f0424d6f32db5580/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-fitness:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-fitness-15.0.1.aar/23c71b9a833895400b091ebf4660fdd9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/c18be7d4c9b551db11d40d3213c8c069/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/159eec56a17d40d6f6b96de8734c4fba/AndroidManifest.xml:17:1-25:12
+MERGED from [com.raizlabs.android:DBFlow:2.2.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/DBFlow-2.2.1.aar/e6d406db9429ae0dacfdfa89ff861b0a/AndroidManifest.xml:2:1-13:12
+MERGED from [host.exp.exponent:expo-constants:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-1.0.0.aar/7be9816d1487101172dca65320ceec1d/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-file-system:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-1.0.0.aar/19fbe214bc56d4a714f16d2033577817/AndroidManifest.xml:2:1-11:12
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.4.aar/8163b55b64afd2f79fb23072e0e1cdaa/AndroidManifest.xml:2:1-35:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-scalablevideoview-1.0.1.aar/2a62550a6ac781af1b8255085dc88815/AndroidManifest.xml:2:1-12:12
+MERGED from [net.openid:appauth:0.4.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appauth-0.4.1.aar/e039285081095cda730d6455d67eb89a/AndroidManifest.xml:15:1-46:12
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/lottie-2.5.5.aar/d7bc6a619ea5af6b6d0996d50beacb78/AndroidManifest.xml:2:1-13:12
+MERGED from [io.branch.sdk.android:library:2.17.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/library-2.17.1.aar/1e274933e3674bb1b3465b78bda5bcaa/AndroidManifest.xml:2:1-11:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/85dfe50e4f192d79a83f0708bf14d207/AndroidManifest.xml:2:1-30:12
+MERGED from [host.exp.exponent:expo-face-detector:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-1.0.0.aar/00533608e80430b75be1a316bc9b8626/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/cfb809e911a34ece234caf27ef516034/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/eeede7c0200c906d16104e3c8fb63d1b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/fc0ca0e05dbdf61607c7054ebd3afb30/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/305f3bbecb55b22260b99950479d2c37/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/c078c680fd087892db14a8778b365029/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a4951f89942fec33991f343e0e5c1e99/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/daa711ca756247ce07f0ec233d8a8765/AndroidManifest.xml:21:1-53:12
+MERGED from [com.stripe:stripe-android:2.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/stripe-android-2.1.0.aar/b9ac96267db1db612ea7f328a9334d71/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.5.4.aar/ceb333272c480f325a1db57eb41f5c86/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-r2.5.4.aar/9960d57290138beabfcb436bcbefd08e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-r2.5.4.aar/e03da792e4d87fc5e2c1bd2e7bed6b2e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/cf28db3e4ae1355804b8515fd60d6498/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/74e5468b97a79d4b515c2ed95c89865a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7da7fc2875b1cd41dfcc407b5a51fd6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/0df5b1acebab869411534e28718262e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a06f6f2e8262693e1c5fba3d2c7bbc3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/3104a20c28576bf87b4d6da8b3bf9c9f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.1.aar/54720bf0eed1f7ef1f1d3b66d9fefca6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/88fd4276a292b4cda7944365d8e4e877/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5a8f892a8b949d96aaee887f66443eb0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/df95205029a7cae3abb7f178d8871499/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/8cb94d8b567dd42680b0578df2b261f1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/a1d7e13d166e8c326ad9c5e06a43b1d4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/f021d79f48d450c28e6f86c82369410a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/263882f05644205ee431c81ea533ebf4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/35af2e609a64b16a9979fc49bdde9c31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/1e6dfad81aaa4ff02d56de240574c25c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:17.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/2b7849673bcde5cdd4a9f60729a03375/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/b5ead2999d9f19cc5052d94495ae2eab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/9560bf4266f0a99c7a291b6a60b68f1c/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/6cda13dc42ce38f8780bae8fa2876655/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/89481e2c2448de4922234da599abd4c1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/42a6701979714b7b24a67837f72fc36c/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/0ea574a5cfa8c3f9232fb0692eac8b35/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/4b74bc3fffaba8239ca01b5acabf01fa/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/807cedc89547a669ce86b68283835c00/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/c5ce60865a93dc63d349266bf66d8fe7/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0266845476471aaacf267a5f9b13b489/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/7a8afc100f9e5f1d6a0ff0b81d32e91d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/b01f3c4744cccf8341adbe5917f331ef/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb8b9b42f3e29903455642aa243456c1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/49345ad4ff8f7dce9f80207899947c79/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/63c7d743bcd94bacbf29d0dd0884dee4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/3b60b61df72b61e4612a5aa049e3cde3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.thefuntasty:CreditCardEntry:1.4.8.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.4.aar/fbe69b4812a26c6a8b5ba898bf90dd82/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/1c0f50dd6ee0f953fcf2b922ea3a1d61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/01253d98359db5f21444a595562f9fa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/70af6733c1a7a149538c293f7980222b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.5.4.aar/5836aba83f98543a5075277fd56603f8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.5.4.aar/ea2e547237424c430a83fbd7e51046f1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9c2f554b92b4c84028189697f2634c45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/50ed8f6794736d057dcad08e7d522b1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0833651920c63395d355c119f271452e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7ed8b86d96d5cbe265d0b1c0e78ee986/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/f75060cd1e10e16648d867c0812d9524/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/f5fd5833b89ba0e5232d7ad2b754b50c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/36a31ed8d736f614f1fe7ba49c18bab7/AndroidManifest.xml:2:1-13:12
+MERGED from [host.exp.exponent:expo-react-native-adapter:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-react-native-adapter-1.0.0.aar/377f1a0a50c676e8097532b5d13babf9/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-gl:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-gl-1.0.0.aar/4b8ce9492df35e5647754402ea055bdb/AndroidManifest.xml:2:1-15:12
+MERGED from [host.exp.exponent:expo-camera-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-interface-1.0.0.aar/c0dea8c6aaa5e654324b04ac1aaf248e/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-sensors:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-1.0.0.aar/daabd00dd5864c8163a848eb76b645ab/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-sensors-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-interface-1.0.0.aar/b201724512c36af19880d2740d709885/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-file-system-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-interface-1.0.0.aar/7f2a5db29bfaf0256219414d0cdc8f55/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-sms:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sms-1.0.0.aar/a3c3901d19c8beb55fd3e9e20b7f1b1e/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-permissions-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-interface-1.0.0.aar/6dc7da7f422ee110f213482963216027/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-constants-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-interface-1.0.0.aar/fbfe839fa94124d75c46db1472838bae/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-gl-cpp:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-gl-cpp-1.0.0.aar/bbcea4d40ce5f22c81c3f0ec2cbacff6/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-print:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-print-1.0.0.aar/cd2491c8f05557f89594ad20ba712994/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-face-detector-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-interface-1.0.0.aar/a21212e0d22c2a661e32bc6eb3e3482e/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-core:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-core-1.0.0.aar/445d0185edc9045e6e30e62af3fd5fbf/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-gl-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-gl-abi29_0_0-1.0.0.aar/e3a9fb8c14b8a745b492f1df5bc277e2/AndroidManifest.xml:2:1-15:12
+MERGED from [host.exp.exponent:expo-face-detector-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-abi29_0_0-1.0.0.aar/71e2d19c80d4c38201773800d9d4809c/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-sms-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sms-abi29_0_0-1.0.0.aar/06952ead28c08a20544587c4eca5e0eb/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-face-detector-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-interface-abi29_0_0-1.0.0.aar/0dcb90c6a089d11d71d68b36438babe5/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-permissions-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-interface-abi29_0_0-1.0.0.aar/85119dcd3646d3f971e6cdd56247a69c/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-file-system-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-interface-abi29_0_0-1.0.0.aar/175e7f5a00441e186078c5fd3cd4ffd3/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-react-native-adapter-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-react-native-adapter-abi29_0_0-1.0.0.aar/e93733df0225d12bf5f21a102dd86f48/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-constants-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-interface-abi29_0_0-1.0.0.aar/0f4161d753d4c39bb19b5df8cc4a7f6c/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-sensors-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-interface-abi29_0_0-1.0.0.aar/e5d6657211dd21e233809511529e9945/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-camera-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-interface-abi29_0_0-1.0.0.aar/60651abea19a2202103a6ce0a8e70582/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-permissions-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-abi29_0_0-1.0.0.aar/0a81dd478f1778695e3286ad341ba13c/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-file-system-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-abi29_0_0-1.0.0.aar/08cf81f984dbcb8964e449016702bfa1/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-constants-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-abi29_0_0-1.0.0.aar/4c356a91c9e5cf23ce8533fd4b2f0b66/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-sensors-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-abi29_0_0-1.0.0.aar/3f95009ac79d53b3b73f02c9ca8a9b61/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-camera-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-abi29_0_0-1.0.0.aar/3af064172f523022c3581f5cb67c85be/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp.exponent:expo-core-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-core-abi29_0_0-1.0.0.aar/141481a7e7bd07985d0ae0a5e7ae97f9/AndroidManifest.xml:2:1-11:12
+MERGED from [host.exp:reactandroid-abi28_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi28_0_0-1.0.0.aar/6303a94a794771694e8234e125122d5d/AndroidManifest.xml:2:1-15:12
+MERGED from [host.exp:reactandroid-abi27_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi27_0_0-1.0.0.aar/8d654366338a8efb0e7d90091cf3083a/AndroidManifest.xml:2:1-15:12
+MERGED from [host.exp:reactandroid-abi26_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi26_0_0-1.0.0.aar/7154d30b81c40ee98754ae0e4e9cc20f/AndroidManifest.xml:2:1-15:12
+MERGED from [host.exp:reactandroid-abi25_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi25_0_0-1.0.0.aar/a26641fb901c0c9974718ac576b1a60b/AndroidManifest.xml:2:1-15:12
+MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi24_0_0-1.0.0.aar/60fa0bdcf306f2155eaf8d038418aa1a/AndroidManifest.xml:2:1-15:12
+MERGED from [host.exp:reactandroid-abi23:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi23-1.0.0.aar/13a6ec13e6b46696cdd5c77b5fa91cb5/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/dbabc0fdc2c4dca501ccf078abd9234e/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/9987393258c884d0655869b5db191cf0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-gif-1.0.1.aar/dae09c361d924b6a890264a4636c7ab6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-webp:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-webp-1.0.1.aar/1397f732ffed67ace25083b417a16d3d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:webpsupport:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/webpsupport-1.0.1.aar/eff1203d5dfa2cb1254220ec88237a67/AndroidManifest.xml:2:1-9:12
+MERGED from [expolib_v1.com.facebook.fresco:expolib_v1-imagepipeline-okhttp3:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expolib_v1-imagepipeline-okhttp3-1.0.1.aar/7b3cc03884ebd2d881c27059b4391bd5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9b21d094f8470830af565618bfc40544/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/927f283577cc803fb701d2589907e7dd/AndroidManifest.xml:1:1-3:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/crashlytics-2.5.5.aar/a8793cacc3b3763187a1802eeb16361e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/5306abebfb384a514443f0217989564e/AndroidManifest.xml:2:1-13:12
+MERGED from [host.exp:reactandroid-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi29_0_0-1.0.0.aar/166f0232eb80371842417eb846436ff6/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/d92dd12afa2309186c04444b27a7188b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-base-1.0.1.aar/c50be80b7fa2095aadf52c79b3547eda/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/938b795e9ccd9e9a3da85c906c3bca5f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/bee53be7c56411b9ff18fcf5d8964593/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/89173aa065b24c6dc244dcd1582a5ddc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.8.aar/983f02f17d4ca7c6763b73638b8e033d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/answers-1.3.6.aar/fece2017a35914f1177a68ecc776ac47/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/fabric-1.3.10.aar/94a1c2583949b49021732c72c6ec6ce0/AndroidManifest.xml:18:1-29:12
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/beta-1.1.4.aar/ec7ade757ad2033f10f371f72ebaf6d3/AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f545a6500d8be13b7529d1e1c4150f09/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/943681a2f1ca2fa20dbd78525221d445/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f6b3b04cea9a8ec78d796c54022a20eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51c39858056b4eba32237d2b25b6a7c8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:2:1-311:12
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
 	package
 		ADDED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:3:3-30
 		INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml
@@ -369,19 +531,35 @@ MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mike/.gradle/caches/trans
 	android:name
 		ADDED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:34:20-67
 uses-permission#android.permission.READ_CALENDAR
+<<<<<<< HEAD
 ADDED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:35:3-70
 MERGED from [:react-native-calendar-events] /Users/mike/Documents/Mikeumus/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-72
 MERGED from [:react-native-calendar-events] /Users/mike/Documents/Mikeumus/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-72
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mike/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/cff56d7a702e95139a044da913a23f5e/AndroidManifest.xml:32:5-72
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mike/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/cff56d7a702e95139a044da913a23f5e/AndroidManifest.xml:32:5-72
+=======
+ADDED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:35:3-70
+MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:32:5-72
+MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:32:5-72
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-72
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-72
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
 	android:name
 		ADDED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:35:20-67
 uses-permission#android.permission.WRITE_CALENDAR
+<<<<<<< HEAD
 ADDED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:36:3-71
 MERGED from [:react-native-calendar-events] /Users/mike/Documents/Mikeumus/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-73
 MERGED from [:react-native-calendar-events] /Users/mike/Documents/Mikeumus/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-73
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mike/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/cff56d7a702e95139a044da913a23f5e/AndroidManifest.xml:33:5-73
 MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mike/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/cff56d7a702e95139a044da913a23f5e/AndroidManifest.xml:33:5-73
+=======
+ADDED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml:36:3-71
+MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:33:5-73
+MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:33:5-73
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-73
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-73
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
 	android:name
 		ADDED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:36:20-68
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -959,6 +1137,7 @@ ADDED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/Andro
 	android:name
 		ADDED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml:308:16-61
 uses-sdk
+<<<<<<< HEAD
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml
@@ -1264,6 +1443,315 @@ MERGED from [android.arch.core:runtime:1.1.0] /Users/mike/.gradle/caches/transfo
 MERGED from [android.arch.core:runtime:1.1.0] /Users/mike/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6ab67a8034060fdee44b715d829a43af/AndroidManifest.xml:20:5-44
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mike/Documents/Mikeumus/lucid-timer/android/app/src/main/AndroidManifest.xml
+=======
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml
+MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expoview:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expoview-29.0.0.aar/957287c0ae4672cd9b7430e62cff4056/AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/leakcanary-android-no-op-1.4-beta1.aar/bf577955721e5555f9d9d73422a47aba/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/leakcanary-android-no-op-1.4-beta1.aar/bf577955721e5555f9d9d73422a47aba/AndroidManifest.xml:20:5-22:41
+MERGED from [:react-native-svg] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-alarms] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-alarms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-alarms] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-alarms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/1b7392dc176d54f0458d1d6e1ff3ec21/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/1b7392dc176d54f0458d1d6e1ff3ec21/AndroidManifest.xml:18:5-42
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/ae2edc796eeff204816799480d773347/AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/ae2edc796eeff204816799480d773347/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/react-native-29.0.0.aar/bc3af34f04b516a5048e535094a057bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:29.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/react-native-29.0.0.aar/bc3af34f04b516a5048e535094a057bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/dd8791c375a956dea3cca6ef3c134d18/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/dd8791c375a956dea3cca6ef3c134d18/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ec2ac6f2866afccb6ebe836900647b09/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ec2ac6f2866afccb6ebe836900647b09/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/1ca85760e014e1f58b756dced282d703/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/1ca85760e014e1f58b756dced282d703/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/5d11ea8f0d422664aaa70dfee7d5abe0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/5d11ea8f0d422664aaa70dfee7d5abe0/AndroidManifest.xml:24:5-26:41
+MERGED from [host.exp.exponent:expo-permissions:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-1.0.0.aar/e4b632291a859d5c61a27a63143d8101/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-permissions:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-1.0.0.aar/e4b632291a859d5c61a27a63143d8101/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-camera:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-1.0.0.aar/d461095f577f8df22ed7e0e12168359d/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-camera:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-1.0.0.aar/d461095f577f8df22ed7e0e12168359d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android:cameraview:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/cameraview-1.0.0.aar/645ebe0c2a733a5ff017069b47f5e1a5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android:cameraview:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/cameraview-1.0.0.aar/645ebe0c2a733a5ff017069b47f5e1a5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:audience-network-sdk:4.99.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.0.aar/cf83d7c4d3f64f334b566c8b11f37f0b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:4.99.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.0.aar/cf83d7c4d3f64f334b566c8b11f37f0b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/a6b393ad1693e95d044ad213696fe08d/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/a6b393ad1693e95d044ad213696fe08d/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/fa1f99e6b0cd06248b99c3243e5e2512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/fa1f99e6b0cd06248b99c3243e5e2512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/0b4dcc964e9a5d2239e31808c9a7040c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/0b4dcc964e9a5d2239e31808c9a7040c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.1.aar/e6ce46a3b15441bc9ebae8cc6b06525c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.1.aar/e6ce46a3b15441bc9ebae8cc6b06525c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f8d3d8ec5d64f43ea64c05784d6d9c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f8d3d8ec5d64f43ea64c05784d6d9c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/ea69cf56a1f19817f0424d6f32db5580/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/ea69cf56a1f19817f0424d6f32db5580/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-fitness-15.0.1.aar/23c71b9a833895400b091ebf4660fdd9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-fitness-15.0.1.aar/23c71b9a833895400b091ebf4660fdd9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/c18be7d4c9b551db11d40d3213c8c069/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/c18be7d4c9b551db11d40d3213c8c069/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/159eec56a17d40d6f6b96de8734c4fba/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/159eec56a17d40d6f6b96de8734c4fba/AndroidManifest.xml:21:5-23:62
+MERGED from [com.raizlabs.android:DBFlow:2.2.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/DBFlow-2.2.1.aar/e6d406db9429ae0dacfdfa89ff861b0a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.raizlabs.android:DBFlow:2.2.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/DBFlow-2.2.1.aar/e6d406db9429ae0dacfdfa89ff861b0a/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-constants:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-1.0.0.aar/7be9816d1487101172dca65320ceec1d/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-constants:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-1.0.0.aar/7be9816d1487101172dca65320ceec1d/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-file-system:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-1.0.0.aar/19fbe214bc56d4a714f16d2033577817/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-file-system:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-1.0.0.aar/19fbe214bc56d4a714f16d2033577817/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.4.aar/8163b55b64afd2f79fb23072e0e1cdaa/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.4.aar/8163b55b64afd2f79fb23072e0e1cdaa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-scalablevideoview-1.0.1.aar/2a62550a6ac781af1b8255085dc88815/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-scalablevideoview-1.0.1.aar/2a62550a6ac781af1b8255085dc88815/AndroidManifest.xml:8:5-10:41
+MERGED from [net.openid:appauth:0.4.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appauth-0.4.1.aar/e039285081095cda730d6455d67eb89a/AndroidManifest.xml:20:5-22:41
+MERGED from [net.openid:appauth:0.4.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appauth-0.4.1.aar/e039285081095cda730d6455d67eb89a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/lottie-2.5.5.aar/d7bc6a619ea5af6b6d0996d50beacb78/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/lottie-2.5.5.aar/d7bc6a619ea5af6b6d0996d50beacb78/AndroidManifest.xml:7:5-9:41
+MERGED from [io.branch.sdk.android:library:2.17.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/library-2.17.1.aar/1e274933e3674bb1b3465b78bda5bcaa/AndroidManifest.xml:7:5-9:41
+MERGED from [io.branch.sdk.android:library:2.17.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/library-2.17.1.aar/1e274933e3674bb1b3465b78bda5bcaa/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/85dfe50e4f192d79a83f0708bf14d207/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/85dfe50e4f192d79a83f0708bf14d207/AndroidManifest.xml:8:5-10:41
+MERGED from [host.exp.exponent:expo-face-detector:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-1.0.0.aar/00533608e80430b75be1a316bc9b8626/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-face-detector:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-1.0.0.aar/00533608e80430b75be1a316bc9b8626/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/cfb809e911a34ece234caf27ef516034/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/cfb809e911a34ece234caf27ef516034/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/eeede7c0200c906d16104e3c8fb63d1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/eeede7c0200c906d16104e3c8fb63d1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/fc0ca0e05dbdf61607c7054ebd3afb30/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/fc0ca0e05dbdf61607c7054ebd3afb30/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/305f3bbecb55b22260b99950479d2c37/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/305f3bbecb55b22260b99950479d2c37/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/c078c680fd087892db14a8778b365029/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/c078c680fd087892db14a8778b365029/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a4951f89942fec33991f343e0e5c1e99/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a4951f89942fec33991f343e0e5c1e99/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/daa711ca756247ce07f0ec233d8a8765/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/daa711ca756247ce07f0ec233d8a8765/AndroidManifest.xml:24:5-26:41
+MERGED from [com.stripe:stripe-android:2.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/stripe-android-2.1.0.aar/b9ac96267db1db612ea7f328a9334d71/AndroidManifest.xml:7:5-9:41
+MERGED from [com.stripe:stripe-android:2.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/stripe-android-2.1.0.aar/b9ac96267db1db612ea7f328a9334d71/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.5.4.aar/ceb333272c480f325a1db57eb41f5c86/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.5.4.aar/ceb333272c480f325a1db57eb41f5c86/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-r2.5.4.aar/9960d57290138beabfcb436bcbefd08e/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-r2.5.4.aar/9960d57290138beabfcb436bcbefd08e/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-r2.5.4.aar/e03da792e4d87fc5e2c1bd2e7bed6b2e/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-r2.5.4.aar/e03da792e4d87fc5e2c1bd2e7bed6b2e/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/cf28db3e4ae1355804b8515fd60d6498/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/cf28db3e4ae1355804b8515fd60d6498/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/74e5468b97a79d4b515c2ed95c89865a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/74e5468b97a79d4b515c2ed95c89865a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7da7fc2875b1cd41dfcc407b5a51fd6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7da7fc2875b1cd41dfcc407b5a51fd6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/0df5b1acebab869411534e28718262e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/0df5b1acebab869411534e28718262e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a06f6f2e8262693e1c5fba3d2c7bbc3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a06f6f2e8262693e1c5fba3d2c7bbc3a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/3104a20c28576bf87b4d6da8b3bf9c9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/3104a20c28576bf87b4d6da8b3bf9c9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.1.aar/54720bf0eed1f7ef1f1d3b66d9fefca6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.1.aar/54720bf0eed1f7ef1f1d3b66d9fefca6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/88fd4276a292b4cda7944365d8e4e877/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/88fd4276a292b4cda7944365d8e4e877/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5a8f892a8b949d96aaee887f66443eb0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5a8f892a8b949d96aaee887f66443eb0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/df95205029a7cae3abb7f178d8871499/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/df95205029a7cae3abb7f178d8871499/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/8cb94d8b567dd42680b0578df2b261f1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/8cb94d8b567dd42680b0578df2b261f1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/a1d7e13d166e8c326ad9c5e06a43b1d4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/a1d7e13d166e8c326ad9c5e06a43b1d4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/f021d79f48d450c28e6f86c82369410a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/f021d79f48d450c28e6f86c82369410a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/263882f05644205ee431c81ea533ebf4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/263882f05644205ee431c81ea533ebf4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/35af2e609a64b16a9979fc49bdde9c31/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/35af2e609a64b16a9979fc49bdde9c31/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/1e6dfad81aaa4ff02d56de240574c25c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/1e6dfad81aaa4ff02d56de240574c25c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/2b7849673bcde5cdd4a9f60729a03375/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/2b7849673bcde5cdd4a9f60729a03375/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/b5ead2999d9f19cc5052d94495ae2eab/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/b5ead2999d9f19cc5052d94495ae2eab/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/9560bf4266f0a99c7a291b6a60b68f1c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/9560bf4266f0a99c7a291b6a60b68f1c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/6cda13dc42ce38f8780bae8fa2876655/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/6cda13dc42ce38f8780bae8fa2876655/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/89481e2c2448de4922234da599abd4c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/89481e2c2448de4922234da599abd4c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/42a6701979714b7b24a67837f72fc36c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/42a6701979714b7b24a67837f72fc36c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/0ea574a5cfa8c3f9232fb0692eac8b35/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/0ea574a5cfa8c3f9232fb0692eac8b35/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/4b74bc3fffaba8239ca01b5acabf01fa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/4b74bc3fffaba8239ca01b5acabf01fa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/807cedc89547a669ce86b68283835c00/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/807cedc89547a669ce86b68283835c00/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/c5ce60865a93dc63d349266bf66d8fe7/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/c5ce60865a93dc63d349266bf66d8fe7/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0266845476471aaacf267a5f9b13b489/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0266845476471aaacf267a5f9b13b489/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/7a8afc100f9e5f1d6a0ff0b81d32e91d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/7a8afc100f9e5f1d6a0ff0b81d32e91d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/b01f3c4744cccf8341adbe5917f331ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/b01f3c4744cccf8341adbe5917f331ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb8b9b42f3e29903455642aa243456c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb8b9b42f3e29903455642aa243456c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/49345ad4ff8f7dce9f80207899947c79/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/49345ad4ff8f7dce9f80207899947c79/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/63c7d743bcd94bacbf29d0dd0884dee4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/63c7d743bcd94bacbf29d0dd0884dee4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/3b60b61df72b61e4612a5aa049e3cde3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/3b60b61df72b61e4612a5aa049e3cde3/AndroidManifest.xml:20:5-44
+MERGED from [com.github.thefuntasty:CreditCardEntry:1.4.8.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.4.aar/fbe69b4812a26c6a8b5ba898bf90dd82/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.thefuntasty:CreditCardEntry:1.4.8.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.4.aar/fbe69b4812a26c6a8b5ba898bf90dd82/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/1c0f50dd6ee0f953fcf2b922ea3a1d61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/1c0f50dd6ee0f953fcf2b922ea3a1d61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/01253d98359db5f21444a595562f9fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/01253d98359db5f21444a595562f9fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/70af6733c1a7a149538c293f7980222b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/70af6733c1a7a149538c293f7980222b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.5.4.aar/5836aba83f98543a5075277fd56603f8/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.5.4.aar/5836aba83f98543a5075277fd56603f8/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.5.4.aar/ea2e547237424c430a83fbd7e51046f1/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.5.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.5.4.aar/ea2e547237424c430a83fbd7e51046f1/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9c2f554b92b4c84028189697f2634c45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9c2f554b92b4c84028189697f2634c45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/50ed8f6794736d057dcad08e7d522b1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/50ed8f6794736d057dcad08e7d522b1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0833651920c63395d355c119f271452e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0833651920c63395d355c119f271452e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7ed8b86d96d5cbe265d0b1c0e78ee986/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7ed8b86d96d5cbe265d0b1c0e78ee986/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/f75060cd1e10e16648d867c0812d9524/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/f75060cd1e10e16648d867c0812d9524/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/f5fd5833b89ba0e5232d7ad2b754b50c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/f5fd5833b89ba0e5232d7ad2b754b50c/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/36a31ed8d736f614f1fe7ba49c18bab7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/36a31ed8d736f614f1fe7ba49c18bab7/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-react-native-adapter:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-react-native-adapter-1.0.0.aar/377f1a0a50c676e8097532b5d13babf9/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-react-native-adapter:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-react-native-adapter-1.0.0.aar/377f1a0a50c676e8097532b5d13babf9/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-gl:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-gl-1.0.0.aar/4b8ce9492df35e5647754402ea055bdb/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-gl:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-gl-1.0.0.aar/4b8ce9492df35e5647754402ea055bdb/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-camera-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-interface-1.0.0.aar/c0dea8c6aaa5e654324b04ac1aaf248e/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-camera-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-interface-1.0.0.aar/c0dea8c6aaa5e654324b04ac1aaf248e/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sensors:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-1.0.0.aar/daabd00dd5864c8163a848eb76b645ab/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sensors:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-1.0.0.aar/daabd00dd5864c8163a848eb76b645ab/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sensors-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-interface-1.0.0.aar/b201724512c36af19880d2740d709885/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sensors-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-interface-1.0.0.aar/b201724512c36af19880d2740d709885/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-file-system-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-interface-1.0.0.aar/7f2a5db29bfaf0256219414d0cdc8f55/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-file-system-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-interface-1.0.0.aar/7f2a5db29bfaf0256219414d0cdc8f55/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sms:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sms-1.0.0.aar/a3c3901d19c8beb55fd3e9e20b7f1b1e/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sms:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sms-1.0.0.aar/a3c3901d19c8beb55fd3e9e20b7f1b1e/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-permissions-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-interface-1.0.0.aar/6dc7da7f422ee110f213482963216027/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-permissions-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-interface-1.0.0.aar/6dc7da7f422ee110f213482963216027/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-constants-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-interface-1.0.0.aar/fbfe839fa94124d75c46db1472838bae/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-constants-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-interface-1.0.0.aar/fbfe839fa94124d75c46db1472838bae/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-gl-cpp:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-gl-cpp-1.0.0.aar/bbcea4d40ce5f22c81c3f0ec2cbacff6/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-gl-cpp:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-gl-cpp-1.0.0.aar/bbcea4d40ce5f22c81c3f0ec2cbacff6/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-print:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-print-1.0.0.aar/cd2491c8f05557f89594ad20ba712994/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-print:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-print-1.0.0.aar/cd2491c8f05557f89594ad20ba712994/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-face-detector-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-interface-1.0.0.aar/a21212e0d22c2a661e32bc6eb3e3482e/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-face-detector-interface:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-interface-1.0.0.aar/a21212e0d22c2a661e32bc6eb3e3482e/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-core:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-core-1.0.0.aar/445d0185edc9045e6e30e62af3fd5fbf/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-core:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-core-1.0.0.aar/445d0185edc9045e6e30e62af3fd5fbf/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-gl-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-gl-abi29_0_0-1.0.0.aar/e3a9fb8c14b8a745b492f1df5bc277e2/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-gl-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-gl-abi29_0_0-1.0.0.aar/e3a9fb8c14b8a745b492f1df5bc277e2/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-face-detector-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-abi29_0_0-1.0.0.aar/71e2d19c80d4c38201773800d9d4809c/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-face-detector-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-abi29_0_0-1.0.0.aar/71e2d19c80d4c38201773800d9d4809c/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sms-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sms-abi29_0_0-1.0.0.aar/06952ead28c08a20544587c4eca5e0eb/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sms-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sms-abi29_0_0-1.0.0.aar/06952ead28c08a20544587c4eca5e0eb/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-face-detector-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-interface-abi29_0_0-1.0.0.aar/0dcb90c6a089d11d71d68b36438babe5/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-face-detector-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-face-detector-interface-abi29_0_0-1.0.0.aar/0dcb90c6a089d11d71d68b36438babe5/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-permissions-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-interface-abi29_0_0-1.0.0.aar/85119dcd3646d3f971e6cdd56247a69c/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-permissions-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-interface-abi29_0_0-1.0.0.aar/85119dcd3646d3f971e6cdd56247a69c/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-file-system-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-interface-abi29_0_0-1.0.0.aar/175e7f5a00441e186078c5fd3cd4ffd3/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-file-system-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-interface-abi29_0_0-1.0.0.aar/175e7f5a00441e186078c5fd3cd4ffd3/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-react-native-adapter-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-react-native-adapter-abi29_0_0-1.0.0.aar/e93733df0225d12bf5f21a102dd86f48/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-react-native-adapter-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-react-native-adapter-abi29_0_0-1.0.0.aar/e93733df0225d12bf5f21a102dd86f48/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-constants-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-interface-abi29_0_0-1.0.0.aar/0f4161d753d4c39bb19b5df8cc4a7f6c/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-constants-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-interface-abi29_0_0-1.0.0.aar/0f4161d753d4c39bb19b5df8cc4a7f6c/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sensors-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-interface-abi29_0_0-1.0.0.aar/e5d6657211dd21e233809511529e9945/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sensors-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-interface-abi29_0_0-1.0.0.aar/e5d6657211dd21e233809511529e9945/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-camera-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-interface-abi29_0_0-1.0.0.aar/60651abea19a2202103a6ce0a8e70582/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-camera-interface-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-interface-abi29_0_0-1.0.0.aar/60651abea19a2202103a6ce0a8e70582/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-permissions-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-abi29_0_0-1.0.0.aar/0a81dd478f1778695e3286ad341ba13c/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-permissions-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-permissions-abi29_0_0-1.0.0.aar/0a81dd478f1778695e3286ad341ba13c/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-file-system-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-abi29_0_0-1.0.0.aar/08cf81f984dbcb8964e449016702bfa1/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-file-system-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-file-system-abi29_0_0-1.0.0.aar/08cf81f984dbcb8964e449016702bfa1/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-constants-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-abi29_0_0-1.0.0.aar/4c356a91c9e5cf23ce8533fd4b2f0b66/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-constants-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-constants-abi29_0_0-1.0.0.aar/4c356a91c9e5cf23ce8533fd4b2f0b66/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sensors-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-abi29_0_0-1.0.0.aar/3f95009ac79d53b3b73f02c9ca8a9b61/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-sensors-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-sensors-abi29_0_0-1.0.0.aar/3f95009ac79d53b3b73f02c9ca8a9b61/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-camera-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-abi29_0_0-1.0.0.aar/3af064172f523022c3581f5cb67c85be/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-camera-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-camera-abi29_0_0-1.0.0.aar/3af064172f523022c3581f5cb67c85be/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-core-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-core-abi29_0_0-1.0.0.aar/141481a7e7bd07985d0ae0a5e7ae97f9/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-core-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expo-core-abi29_0_0-1.0.0.aar/141481a7e7bd07985d0ae0a5e7ae97f9/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi28_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi28_0_0-1.0.0.aar/6303a94a794771694e8234e125122d5d/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi28_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi28_0_0-1.0.0.aar/6303a94a794771694e8234e125122d5d/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi27_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi27_0_0-1.0.0.aar/8d654366338a8efb0e7d90091cf3083a/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi27_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi27_0_0-1.0.0.aar/8d654366338a8efb0e7d90091cf3083a/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi26_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi26_0_0-1.0.0.aar/7154d30b81c40ee98754ae0e4e9cc20f/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi26_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi26_0_0-1.0.0.aar/7154d30b81c40ee98754ae0e4e9cc20f/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi25_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi25_0_0-1.0.0.aar/a26641fb901c0c9974718ac576b1a60b/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi25_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi25_0_0-1.0.0.aar/a26641fb901c0c9974718ac576b1a60b/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi24_0_0-1.0.0.aar/60fa0bdcf306f2155eaf8d038418aa1a/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi24_0_0-1.0.0.aar/60fa0bdcf306f2155eaf8d038418aa1a/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi23:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi23-1.0.0.aar/13a6ec13e6b46696cdd5c77b5fa91cb5/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi23:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi23-1.0.0.aar/13a6ec13e6b46696cdd5c77b5fa91cb5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/dbabc0fdc2c4dca501ccf078abd9234e/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/dbabc0fdc2c4dca501ccf078abd9234e/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/9987393258c884d0655869b5db191cf0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/9987393258c884d0655869b5db191cf0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-gif-1.0.1.aar/dae09c361d924b6a890264a4636c7ab6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-gif-1.0.1.aar/dae09c361d924b6a890264a4636c7ab6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-webp-1.0.1.aar/1397f732ffed67ace25083b417a16d3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-webp-1.0.1.aar/1397f732ffed67ace25083b417a16d3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/webpsupport-1.0.1.aar/eff1203d5dfa2cb1254220ec88237a67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/webpsupport-1.0.1.aar/eff1203d5dfa2cb1254220ec88237a67/AndroidManifest.xml:5:5-7:41
+MERGED from [expolib_v1.com.facebook.fresco:expolib_v1-imagepipeline-okhttp3:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expolib_v1-imagepipeline-okhttp3-1.0.1.aar/7b3cc03884ebd2d881c27059b4391bd5/AndroidManifest.xml:5:5-7:41
+MERGED from [expolib_v1.com.facebook.fresco:expolib_v1-imagepipeline-okhttp3:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/expolib_v1-imagepipeline-okhttp3-1.0.1.aar/7b3cc03884ebd2d881c27059b4391bd5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9b21d094f8470830af565618bfc40544/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9b21d094f8470830af565618bfc40544/AndroidManifest.xml:2:3-70
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/crashlytics-2.5.5.aar/a8793cacc3b3763187a1802eeb16361e/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/crashlytics-2.5.5.aar/a8793cacc3b3763187a1802eeb16361e/AndroidManifest.xml:7:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/5306abebfb384a514443f0217989564e/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/5306abebfb384a514443f0217989564e/AndroidManifest.xml:5:5-43
+MERGED from [host.exp:reactandroid-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi29_0_0-1.0.0.aar/166f0232eb80371842417eb846436ff6/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi29_0_0:1.0.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/reactandroid-abi29_0_0-1.0.0.aar/166f0232eb80371842417eb846436ff6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/d92dd12afa2309186c04444b27a7188b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/d92dd12afa2309186c04444b27a7188b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-base-1.0.1.aar/c50be80b7fa2095aadf52c79b3547eda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/animated-base-1.0.1.aar/c50be80b7fa2095aadf52c79b3547eda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/938b795e9ccd9e9a3da85c906c3bca5f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/938b795e9ccd9e9a3da85c906c3bca5f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/bee53be7c56411b9ff18fcf5d8964593/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/bee53be7c56411b9ff18fcf5d8964593/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/89173aa065b24c6dc244dcd1582a5ddc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/89173aa065b24c6dc244dcd1582a5ddc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.8.aar/983f02f17d4ca7c6763b73638b8e033d/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.8.aar/983f02f17d4ca7c6763b73638b8e033d/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/answers-1.3.6.aar/fece2017a35914f1177a68ecc776ac47/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/answers-1.3.6.aar/fece2017a35914f1177a68ecc776ac47/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/fabric-1.3.10.aar/94a1c2583949b49021732c72c6ec6ce0/AndroidManifest.xml:23:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/fabric-1.3.10.aar/94a1c2583949b49021732c72c6ec6ce0/AndroidManifest.xml:23:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/beta-1.1.4.aar/ec7ade757ad2033f10f371f72ebaf6d3/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/beta-1.1.4.aar/ec7ade757ad2033f10f371f72ebaf6d3/AndroidManifest.xml:7:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f545a6500d8be13b7529d1e1c4150f09/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f545a6500d8be13b7529d1e1c4150f09/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/943681a2f1ca2fa20dbd78525221d445/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/943681a2f1ca2fa20dbd78525221d445/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f6b3b04cea9a8ec78d796c54022a20eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f6b3b04cea9a8ec78d796c54022a20eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51c39858056b4eba32237d2b25b6a7c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mikeumus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51c39858056b4eba32237d2b25b6a7c8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/src/main/AndroidManifest.xml
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /Users/mike/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/44fb07dc4bf46b588dee711a00205a77/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion

@@ -448,6 +448,10 @@
     <orderEntry type="library" name="Gradle: host.exp:reactandroid-abi26_0_0-1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: host.exp.exponent:expo-file-system-abi29_0_0-1.0.0" level="project" />
     <orderEntry type="module" module-name="react-native-alarms" />
+<<<<<<< HEAD
     <orderEntry type="module" module-name="react-native-calendar-events" />
+=======
+    <orderEntry type="module" module-name="react-native-svg" />
+>>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
   </component>
 </module>

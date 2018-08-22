@@ -17,7 +17,7 @@ public class MainActivity extends DetachActivity {
 
   @Override
   public String publishedUrl() {
-    return "exp://exp.host/@mikeumus/expo-sdk29-test";
+    return "exp://exp.host/@mikeumus/lucid-timer";
   }
 
   @Override
