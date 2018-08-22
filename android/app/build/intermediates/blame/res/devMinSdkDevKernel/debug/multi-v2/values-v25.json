@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-v25/values-v25.xml",
+            "outputFile": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98dbf7057b3cb31a957756a81f89d57e/res/values-v25/values-v25.xml",
+                    "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9d66319f8f766e9e6b8625ea1e63dc29/res/values-v25/values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

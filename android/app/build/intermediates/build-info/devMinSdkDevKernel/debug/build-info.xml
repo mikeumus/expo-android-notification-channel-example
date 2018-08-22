@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-<<<<<<< HEAD
-    abi="x86"
-    api-level="27"
-    build-mode="FULL"
-    density="420dpi"
-    format="10"
-    plugin-version="3.1.4"
-    timestamp="1534943550880"
-    token="2259788192165927905"
-    verifier="FULL_BUILD_REQUESTED" >
-=======
     abi="x86_64,x86"
     api-level="23"
     build-mode="COLD"
@@ -21,7 +10,6 @@
     timestamp="1533912261261"
     token="-3662928242359381905"
     verifier="COLD_SWAP_REQUESTED" >
->>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
 
     <task
         name="javac"
@@ -37,98 +25,51 @@
         duration="41" />
 
     <artifact
-<<<<<<< HEAD
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/resources/instant-run/devMinSdkDevKernel/debug/resources-devMinSdk-devKernel-debug.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/instant-run-apk/devMinSdkDevKernel/debug/app-devMinSdk-devKernel-debug.apk"
-=======
         location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
         location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/instant-run-apk/devMinSdkDevKernel/debug/app-devMinSdk-devKernel-debug.apk"
->>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-<<<<<<< HEAD
-        timestamp="1534943550880"
-=======
         timestamp="1533906848337"
->>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/dep/dependencies.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_8.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_2.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_3.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_7.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_9.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_6.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_5.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_4.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_1.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/resources/instant-run/devMinSdkDevKernel/debug/resources-devMinSdk-devKernel-debug.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/instant-run-apk/devMinSdkDevKernel/debug/app-devMinSdk-devKernel-debug.apk"
+            location="/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/instant-run-apk/devMinSdkDevKernel/debug/app-devMinSdk-devKernel-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build

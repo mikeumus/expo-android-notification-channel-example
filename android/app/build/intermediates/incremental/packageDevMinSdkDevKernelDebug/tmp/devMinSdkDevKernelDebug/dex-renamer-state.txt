@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#Fri Aug 17 12:29:54 EDT 2018
-=======
 #Mon Aug 06 20:49:40 EDT 2018
->>>>>>> a6caea08fbafcfffea7c5703373d70b512ab7575
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -11,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/23
-base.4=/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/26
-base.3=/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/25
-base.2=/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/27
-base.1=/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/22
-base.0=/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/24
+base.5=/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/43
+base.4=/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/40
+base.3=/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/39
+base.2=/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/42
+base.1=/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/38
+base.0=/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/41
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex

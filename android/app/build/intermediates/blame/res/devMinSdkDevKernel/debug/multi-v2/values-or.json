@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-or/values-or.xml",
+            "outputFile": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-or/values-or.xml",
             "map": [
                 {
-                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/2beed9e2637f02fbafb7df00fa3046ae/res/values-or/values.xml",
+                    "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/2b7849673bcde5cdd4a9f60729a03375/res/values-or/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
