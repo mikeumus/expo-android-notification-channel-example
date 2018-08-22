@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mikeumus/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/Users/mikeumus/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.4.aar/fbe69b4812a26c6a8b5ba898bf90dd82/res/values-v14/values-v14.xml",
+                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.4.aar/6d0f1fb750f832b05fe16fe45037dc37/res/values-v14/values-v14.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
