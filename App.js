@@ -1,63 +1,62 @@
 import React from 'react';
-import moment from 'moment';
-import RNCalendarEvents from 'react-native-calendar-events';
-import { StyleSheet, Text, View, Button } from 'react-native';
+import { Platform, StatusBar, StyleSheet, View } from 'react-native';
+import { AppLoading, Asset, Font, Icon } from 'expo';
+import AppNavigator from './navigation/AppNavigator';
 
 export default class App extends React.Component {
-  constructor() {
-    super();
-    this.state = {
-      cal_auth: ''
+  state = {
+    isLoadingComplete: false,
+  };
+
+  render() {
+    if (!this.state.isLoadingComplete && !this.props.skipLoadingScreen) {
+      return (
+        <AppLoading
+          startAsync={this._loadResourcesAsync}
+          onError={this._handleLoadingError}
+          onFinish={this._handleFinishLoading}
+        />
+      );
+    } else {
+      return (
+        <View style={styles.container}>
+          {Platform.OS === 'ios' && <StatusBar barStyle="default" />}
+          <AppNavigator />
+        </View>
+      );
     }
   }
 
-  componentWillMount() {
-    RNCalendarEvents.authorizeEventStore()
-    .then((out) => {
-      if (out === 'authorized') {
-        this.setState({ cal_auth: out })
-      }
-     })
-     .catch((error) => {
-       // debugger;
-       console.warn('Auth Error: ', error);
-     });
-  }
+  _loadResourcesAsync = async () => {
+    return Promise.all([
+      Asset.loadAsync([
+        require('./assets/images/robot-dev.png'),
+        require('./assets/images/robot-prod.png'),
+      ]),
+      Font.loadAsync({
+        // This is the font that we are using for our tab bar
+        ...Icon.Ionicons.font,
+        // We include SpaceMono because we use it in HomeScreen.js. Feel free
+        // to remove this if you are not using it in your app
+        'space-mono': require('./assets/fonts/SpaceMono-Regular.ttf'),
+      }),
+    ]);
+  };
 
-  setTimer(){
-    const newDate = new Date().toISOString();
-    RNCalendarEvents.saveEvent('RAMP Lucid Timer', {
-      startDate: newDate,
-      endDate: moment(newDate).add(107, 'm').toISOString(),
-      alarms: [{
-        date: moment(newDate).add(9).toISOString(),
-      }],
-    })
-    .then(id => {
-      console.info(id);
-    })
-    .catch(error => console.warn('Save Event Error: ', error));
-  }
+  _handleLoadingError = error => {
+    // In this case, you might want to report the error to your error
+    // reporting service, for example Sentry
+    console.warn(error);
+  };
 
-  render() {
-    return (
-      <View style={styles.container}>
-        <Text>Set your RAMP Lucid Timer for 1 minute from now.</Text>
-        <Button
-          onPress={this.setTimer}
-          title="SET TIMER"
-          color="#841584"
-          accessibilityLabel="Button to set lucid RAMP timer for 1 minute from now"/>
-      </View>
-    );
-  }
+  _handleFinishLoading = () => {
+    this.setState({ isLoadingComplete: true });
+  };
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
   },
 });

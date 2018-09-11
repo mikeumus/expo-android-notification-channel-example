@@ -1,32 +1,18 @@
 {
   "expo": {
     "name": "lucid-timer",
-    "description": "This project is really great.",
-    "slug": "expo-sdk29-test",
+    "description": "A very interesting project.",
+    "slug": "lucid-timer",
     "privacy": "public",
     "sdkVersion": "29.0.0",
-    "platforms": [
-      "ios",
-      "android"
-    ],
+    "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.mdm.lucidtimer",
-      "publishBundlePath": "ios/expo-sdk29-test/Supporting/shell-app.bundle",
-      "publishManifestPath": "ios/expo-sdk29-test/Supporting/shell-app-manifest.json"
-    },
-    "android": {
-      "package": "com.mdm.lucidtimer",
-      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
-      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -34,11 +20,8 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "isDetached": true,
-    "detach": {
-      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.7.0-sdk29.0.0-de70611d-e42d-4d50-a6a5-2d8eabf6ed72.tar.gz",
-      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.6.0-sdk29.0.0-2366e226-0c19-4600-aa66-dce75dd474fb.tar.gz"
-    },
-    "scheme": "expe76749b736ef4d49969b816375ce492c"
+    "ios": {
+      "supportsTablet": true
+    }
   }
 }
