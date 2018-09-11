@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "/Users/mmooring/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/3af410a81d5f94813e43e455a29c36cf/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/Users/mmooring/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3599e16e8b06758b57fe7307345c8794/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2635",
+                        "endColumns": "100",
+                        "endOffsets": "2731"
+                    }
+                },
+                {
+                    "source": "/Users/mmooring/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/df4d5853d6633c3b46948854eb479633/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -21,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1178c313e6bf1f8f632d76cd60356394/res/values-en-rIN/values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
-                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,2553",
-                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,2630"
-                    }
-                },
-                {
-                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.1.aar/6c318c5c5526acb59ae07660acd7ed31/res/values-en-rIN/values.xml",
+                    "source": "/Users/mmooring/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.1.aar/0dbcbfa8f27d6557a9850b2a377cb995/res/values-en-rIN/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,20 +55,20 @@
                     }
                 },
                 {
-                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e2ed00f9544483074a2b497b4684aa/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/Users/mmooring/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/60416321a1a43de2e9ee34a2eae5b6cf/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
                     },
                     "to": {
-                        "startLines": "30",
-                        "startColumns": "4",
-                        "startOffsets": "2635",
-                        "endColumns": "100",
-                        "endOffsets": "2731"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,2553",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,2630"
                     }
                 }
             ]

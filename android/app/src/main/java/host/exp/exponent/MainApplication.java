@@ -11,7 +11,7 @@ import expolib_v1.okhttp3.OkHttpClient;
 // Needed for `react-native link`
 //import com.facebook.react.ReactApplication;
 import com.horcrux.svg.SvgPackage;
-import com.calendarevents.CalendarEventsPackage;
+// import com.calendarevents.CalendarEventsPackage;
 import com.ioddly.alarms.AlarmPackage;
 
 public class MainApplication extends ExpoApplication {
@@ -27,8 +27,8 @@ public class MainApplication extends ExpoApplication {
         // Needed for `react-native link`
         // new MainReactPackage(),
         new SvgPackage(),
-        new AlarmPackage(),
-        new CalendarEventsPackage()
+        new AlarmPackage()
+        // new CalendarEventsPackage()
     );
   }
 
@@ -38,10 +38,10 @@ public class MainApplication extends ExpoApplication {
   }
 
 //   @Override
-   public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
-     CalendarEventsPackage.onRequestPermissionsResult(requestCode, permissions, grantResults);
+   // public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+     // CalendarEventsPackage.onRequestPermissionsResult(requestCode, permissions, grantResults);
 //    super.onRequestPermissionsResult(requestCode, permissions, grantResults);
-   }
+   // }
 
   @Override
   public boolean shouldUseInternetKernel() {

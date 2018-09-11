@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.azimolabs.conditionwatcher:conditionwatcher-0.2">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/conditionwatcher-0.2.aar/10a1cec4880df9b7d6508c795d6aba9d/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/conditionwatcher-0.2.aar/10a1cec4880df9b7d6508c795d6aba9d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/conditionwatcher-0.2.aar/3204de53ffae42fac52d276661388d27/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/conditionwatcher-0.2.aar/3204de53ffae42fac52d276661388d27/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

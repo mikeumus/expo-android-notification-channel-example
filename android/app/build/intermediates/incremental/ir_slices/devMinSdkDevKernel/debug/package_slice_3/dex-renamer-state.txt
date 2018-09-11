@@ -1,4 +1,4 @@
-#Wed Aug 22 18:50:34 EDT 2018
-base.0=/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/3
+#Mon Sep 10 08:57:06 EDT 2018
+base.0=/Users/mmooring/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/3
 path.0=classes.dex
 renamed.0=classes.dex

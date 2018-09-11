@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: host.exp.exponent:expo-face-detector-1.0.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-face-detector-1.0.0.aar/00533608e80430b75be1a316bc9b8626/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-face-detector-1.0.0.aar/00533608e80430b75be1a316bc9b8626/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-face-detector-1.0.0.aar/da6438df5cc7389e7dece2c12c8ffb0b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-face-detector-1.0.0.aar/da6438df5cc7389e7dece2c12c8ffb0b/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

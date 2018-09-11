@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "/Users/mmooring/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.1.aar/6c318c5c5526acb59ae07660acd7ed31/res/values-en-rCA/values.xml",
+                    "source": "/Users/mmooring/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.1.aar/0dbcbfa8f27d6557a9850b2a377cb995/res/values-en-rCA/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1178c313e6bf1f8f632d76cd60356394/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/Users/mmooring/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/60416321a1a43de2e9ee34a2eae5b6cf/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

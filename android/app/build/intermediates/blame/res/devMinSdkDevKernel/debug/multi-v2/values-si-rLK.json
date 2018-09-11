@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml",
+            "outputFile": "/Users/mmooring/Documents/Mikeumus/code/lucid-timer/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml",
             "map": [
                 {
-                    "source": "/Users/mike/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/3af410a81d5f94813e43e455a29c36cf/res/values-si-rLK/values-si-rLK.xml",
+                    "source": "/Users/mmooring/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/df4d5853d6633c3b46948854eb479633/res/values-si-rLK/values-si-rLK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

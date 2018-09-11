@@ -1,3 +1,0 @@
-# Referenced at /Users/mike/Documents/Mikeumus/lucid-timer/android/app/build/intermediates/manifests/full/prodMinSdkDevKernel/debug/AndroidManifest.xml:113
--keep class host.exp.exponent.MainApplication { <init>(...); }
-
