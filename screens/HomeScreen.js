@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, StyleSheet, Button, Alert } from 'react-native';
+import { Platform, View, StyleSheet, Button, Alert } from 'react-native';
 import { Constants, Notifications, Permissions } from 'expo';
 
 async function getiOSNotificationPermission() {
@@ -14,16 +14,13 @@ async function getiOSNotificationPermission() {
 export default class HomeScreen extends Component {
   _handleButtonPress = () => {
     const localnotification = {
-      title: 'Example Title!',
-      body: 'This is the body text of the local notification',
+      title: 'Notification!',
+      body: 'This is your affirmation to dream lucidly.',
       data: {
-        thisIsYourData: 'hello world',
+        thisIsYourData: 'your data',
       },
       android: {
         channelId: 'alarm',
-        priority: 'max',
-        vibrate: [0, 250, 250, 250],
-        color: '#FF0000',
       },
       ios: {
         sound: true,
@@ -51,6 +48,14 @@ export default class HomeScreen extends Component {
   }
 
   async componentDidMount() {
+    if (Platform.OS === 'android') {
+      Expo.Notifications.createChannelAndroidAsync('alarm', {
+        name: 'Alarms',
+        priority: 'max',
+        vibrate: [0, 250, 250, 250],
+        sound: true,
+      });
+    }
     await getiOSNotificationPermission();
     this.listenForNotifications();
   }
